@@ -31,4 +31,4 @@
 
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/johndoe" target="_blank">dirstd</a> Email: dirstdtol@gmail.com</p>
+<p align="center">🔗 LinkedIn: <a href="https://t.me/dirstd" target="_blank">dirstd</a> Email: dirstdtol@gmail.com</p>
