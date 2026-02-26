@@ -39,7 +39,7 @@ class Developer:
         self.role       = "Web Developer & Telegram Bot Creator"
         self.location   = "🌍 Russia"
         self.languages  = ["Python", "JavaScript", "TypeScript"]
-        self.interests  = ["Telegram Bots", "Web Apps", "Backend Dev"]
+        self.interests  = ["Telegram Bots", "Backend Dev"]
         self.learning   = ["New frameworks", "System design", "Best practices"]
 
     def say_hi(self):
@@ -120,7 +120,7 @@ me.say_hi()
 | 🌐 Web Development | 🤖 Telegram Bots | 📦 Backend |
 |:---:|:---:|:---:|
 | Создаю современные веб-приложения | Разрабатываю ботов на Python | Проектирую API и серверную логику |
-| React, HTML/CSS, JS/TS | aiogram, python-telegram-bot | Flask, Node.js, PostgreSQL |
+| React, HTML/CSS, JS/TS | aiogram | FastAPI, Node.js, PostgreSQL |
 
 </div>
 
