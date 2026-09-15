@@ -8,7 +8,7 @@ Web-разработчик и создатель Telegram-ботов из Рос
 
 * **Языки:** Python, TypeScript, JavaScript, SQL
 * **Фронтенд:** React, HTML5, CSS3
-* **Бэкенд:** fastapi
+* **Бэкенд:** FastAPI
 * **Базы данных:** PostgreSQL, MySQL, SQLite
 * **Инструменты:** Git, GitHub Copilot, REST API, Claude Code, Gemini AI
 
