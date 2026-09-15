@@ -33,4 +33,4 @@ Web-разработчик и создатель Telegram-ботов из Рос
 
 ### 📬 Контакты
 
-* Telegram: [@dirstd](https://t.me/dirstd)
+* Telegram: [@dirstd_dev](https://t.me/dirstd_dev)
