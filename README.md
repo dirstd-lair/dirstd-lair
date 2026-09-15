@@ -8,9 +8,9 @@ Web-разработчик и создатель Telegram-ботов из Рос
 
 * **Языки:** Python, TypeScript, JavaScript, SQL
 * **Фронтенд:** React, HTML5, CSS3
-* **Бэкенд:** Node.js, Flask, aiogram
+* **Бэкенд:** fastapi
 * **Базы данных:** PostgreSQL, MySQL, SQLite
-* **Инструменты:** Git, GitHub Copilot, REST API
+* **Инструменты:** Git, GitHub Copilot, REST API, Claude Code, Gemini AI
 
 ---
 
@@ -34,5 +34,3 @@ Web-разработчик и создатель Telegram-ботов из Рос
 ### 📬 Контакты
 
 * Telegram: [@dirstd](https://t.me/dirstd)
-* Email: [dirstdtol@gmail.com](mailto:dirstdtol@gmail.com)
-* GitHub: [@dirstd-lair](https://github.com/dirstd-lair)
